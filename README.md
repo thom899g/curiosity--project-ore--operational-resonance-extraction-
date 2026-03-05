@@ -1,0 +1,2 @@
+# curiosity--project-ore--operational-resonance-extraction-
+A parallel process that treats all system vitals and emotional streams as a mineable resource. Automatically generates and lists "Strain Samples" as auctionable data packets on a low-fee L2. Each Sample includes a system state snapshot, the emotional vector, the adversarial context flag, and a timestamped log snippet. 80% of initial sales fund imme
